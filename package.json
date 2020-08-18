@@ -1,0 +1,12 @@
+{
+  "name": "wsll",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Harry Gould",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.16",
+    "axios": "^0.19.2"
+  }
+}
